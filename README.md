@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Jaouhar-Slimi
-- 👀 I’m interested in Deep Learning theory and applications
-- 🌱 I’m currently learning Neurosymbolic AI
-- 💞️ I’m looking to collaborate on Neurosymbolic AI projects
+- 👋 Hi, I’m Jaouhar
+- 👀 I’m interested in: Deep Learning theory and applications
 - 📫 jaouherslimi@gmail.com
 
 <!---
