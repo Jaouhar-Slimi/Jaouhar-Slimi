@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jaouhar
-- 👀 I’m interested in: Deep Learning theory and applications
+- 👀 I’m interested in: Artificial Intelligence
 - 📫 jaouherslimi@gmail.com
 
 <!---
