@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>Jaouhar</b>
-- 👀 I’m interested in: Artificial Intelligence
-- 📫 jaouherslimi@gmail.com
+- 👀 I’m interested in: <b>Artificial Intelligence</b>
+- 📫 email address: <b>jaouherslimi@gmail.com</b>
 
 <!---
 Jaouhar-Slimi/Jaouhar-Slimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
