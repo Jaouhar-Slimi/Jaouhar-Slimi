@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jaouhar
+- 👋 Hi, I’m <b>Jaouhar</b>
 - 👀 I’m interested in: Artificial Intelligence
 - 📫 jaouherslimi@gmail.com
 
