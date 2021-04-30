@@ -1,5 +1,5 @@
-- 👋 Hi, I’m <b>Jaouhar</b>
-- 👀 I’m interested in: <b>Artificial Intelligence</b>
+- 👋 Hi, I’m <b>Jaouhar</b>, also known as <b>John</b>
+- 👀 I’m interested in: <b>Deep Learning</b>
 - 📫 email address: <b>jaouherslimi@gmail.com</b>
 
 <!---
