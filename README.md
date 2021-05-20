@@ -4,6 +4,7 @@
 - I have experience in Machine Learning/deep learning from working on projects and doing Internships
 - I also have a teaching experience as an AI instructor (also I teach Python for beginners)
 - 📫 email address: <b>jaouherslimi@gmail.com</b>
+- 📫 LinkedIn: https://www.linkedin.com/in/jaouhar-slimi/
 
 <!---
 Jaouhar-Slimi/Jaouhar-Slimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
