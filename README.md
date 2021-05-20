@@ -1,4 +1,4 @@
-<q>My brain is open</q> Paul Erdos
+<q><center>My brain is open</center></q> Erdős
 - 👋 Hi, I’m <b>Jaouhar</b>
 - 👀 I’m interested in: <b>Deep Learning</b>
 - 📫 email address: <b>jaouherslimi@gmail.com</b>
