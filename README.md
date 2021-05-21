@@ -2,7 +2,7 @@
 - I'm almost 22, I study on Google/Youtube and Coursera (also got a BSc in CS from a "no name" university) and I live in the computational universe
 - 👀 I’m interested in: <b>Deep Learning (theory and research)</b>
 - I have experience in Machine Learning/deep learning from working on projects and doing Internships
-- I also have a teaching experience as an AI instructor (also I teach Python for beginners)
+- I also have a teaching experience as an AI instructor (I teach Coding with Python for beginners as well)
 - 📫 email address: <b>jaouherslimi@gmail.com</b>
 - 📫 LinkedIn: https://www.linkedin.com/in/jaouhar-slimi/
 
